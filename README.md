@@ -5,3 +5,4 @@ How to program PLC with CX-Programmer
 ## Project
 
 [Explanation about project PLC](https://youtu.be/a6hl7-lfZ4Q) 
+![BoardMOD](Table of Address.PNG)
