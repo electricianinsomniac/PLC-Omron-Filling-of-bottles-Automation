@@ -8,6 +8,7 @@ How to program PLC with CX-Programmer
 
 ## Details
 ![Tables](Table-of-Address.PNG)
+# Ladder Diagram
 ![Program1](Program1.jpg)
 ![Program2](Program2.jpg)
 ![Program3](Program3.jpg)
