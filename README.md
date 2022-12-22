@@ -15,4 +15,4 @@ How to program PLC with CX-Programmer
 ![Program3](Program3.jpg)
 
 ## Another PLC Project
-![PLC Omron Automatic Sump System](https://github.com/electricianinsomniac/PLC-Omron-Automatic-Sump-System)
+[PLC Omron Automatic Sump System](https://github.com/electricianinsomniac/PLC-Omron-Automatic-Sump-System)
