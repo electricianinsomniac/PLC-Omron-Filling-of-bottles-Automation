@@ -4,9 +4,9 @@ How to program PLC with CX-Programmer
 
 ## Project
 
-Sensors used Sensors: Proximity 1, Proximity 2, High level, Low Level, 
+Sensors used Sensors: Proximity 1, Proximity 2, High level, Low Level
 
-PH meter Actuators: Material pump 1, Material pump 2, Container faucet, Conveyor 1, Conveyor 2, Mixer,
+PH meter Actuators: Material pump 1, Material pump 2, Container faucet, Conveyor 1, Conveyor 2, Mixer
 
 Video: [Explanation about project PLC](https://youtu.be/a6hl7-lfZ4Q) 
 
