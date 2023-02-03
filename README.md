@@ -19,6 +19,7 @@ PH meter Actuators: Material pump 1, Material pump 2, Container faucet, Conveyor
 Video: [Explanation about project PLC](https://youtu.be/a6hl7-lfZ4Q) 
 
 ## Details
+- Addressing Table
 ![Tables](Table-of-Address.PNG)
 
 ## Ladder Diagram
